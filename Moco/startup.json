@@ -1,0 +1,18 @@
+[
+  {
+    "description": "获取get的cookies",
+    "request": {
+      "uri": "/getcookies",
+      "method": "get"
+    },
+    "response": {
+      "cookies": {
+        "login": "turn",
+        "lzq":"ssss"
+      },
+      "text": "getcookiessuessful"
+    }
+  }
+
+
+]
